@@ -8,3 +8,4 @@ http://cois.moi.gov.tw/moiweb/web/frmHome.aspx
 
   * 本專案公布之資料皆來自上述內政部網站，其正確性、完整性以上述網站為準。
   * 程式碼採用 BSD 授權。
+  * 資料為公眾領域資料，以 [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/deed.zh_TW) 授權。
